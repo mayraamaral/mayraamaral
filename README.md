@@ -15,8 +15,6 @@
   
 </p>
 
-<br />
-
 <h4>My skills</h4>
 
 <p>
@@ -27,8 +25,6 @@
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   
 </p>
-
-<br />
   
 <h4>Recent activities</h4>
 <center>
