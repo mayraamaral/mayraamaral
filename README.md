@@ -20,6 +20,7 @@
   <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" />
   <img src="https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop" />
   <img src="https://img.shields.io/badge/-Adobe_XD-05122A?style=flat&logo=adobe-xd" />
+  <img src="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux" />
   
 </p>
   
