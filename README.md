@@ -3,13 +3,13 @@
 
 <p>
   
-  <a href="https://mayraamaral.github.io" target="_blank"><img src="https://img.shields.io/badge/-mayraamaral.github.io-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/mayraamaral" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:mayraamaral.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://mayraamaral.github.io" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/-mayraamaral.github.io-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/mayraamaral" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:mayraamaral.dev@gmail.com" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
   
 </p>
 
-<h4>My skills</h4>
+<h3>My skills</h3>
 
 <p>
   <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" />
@@ -24,7 +24,7 @@
   
 </p>
   
-<h4>Recent activities</h4>
+<h3>Recent activities</h3>
 <center>
 <table>
   <tr>
