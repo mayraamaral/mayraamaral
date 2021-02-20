@@ -3,7 +3,7 @@
 
 <p>
   
-  <a href="mayraamaral.github.io"><img src="https://img.shields.io/badge/-mayraamaral.github.io-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+  <a href="https://mayraamaral.github.io"><img src="https://img.shields.io/badge/-mayraamaral.github.io-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
   <a href="https://linkedin.com/in/mayraamaral"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:mayraamaral.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
   
