@@ -5,7 +5,7 @@
   
   <a href="https://mayraamaral.github.io" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/-mayraamaral.github.io-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
   <a href="https://linkedin.com/in/mayraamaral" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:mayraamaral.dev@gmail.com" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=mayracunha18@gmail.com&tf=1" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
   
 </p>
 
