@@ -1,5 +1,5 @@
 <h3>Hi, I'm Mayra</h3>
-<h4>A dedicated Front-End Developer from Joao Pessoa, Brazil.</h4>
+<h4>A dedicated Web & Mobile Developer from Joao Pessoa, Brazil.</h4>
 
 <p>
   
