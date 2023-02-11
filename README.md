@@ -2,7 +2,7 @@
 
 A girl passionate about technology💻 and challenges⚡  
 Currently **working as frontend developer**👩‍💻 at DBC Company🚀  
-Also studying **backend development with Node.js** in my spare time🔥  
+Also studying **backend with Node.js** in my spare time🔥  
 
 ### 💬 You can find me at
 
