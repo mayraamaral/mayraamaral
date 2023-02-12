@@ -31,13 +31,13 @@ Also studying **backend with Node.js** in my spare time🔥
   <summary><h3>👩‍💻 Coding Stats</h3></summary>
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-16%20hrs%2018%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 96 Contributions in the Year 2023
+> 🏆 97 Contributions in the Year 2023
  > 
-> 📦 573.0 kB Used in GitHub's Storage 
+> 📦 573.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -105,7 +105,7 @@ CSS                      2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 11/02/2023 18:37:18 UTC
+ Last Updated on 12/02/2023 18:37:25 UTC
 <!--END_SECTION:waka-->
 
 </details>
