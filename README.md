@@ -31,11 +31,11 @@ Also studying **backend with Node.js** in my spare time🔥
   <summary><h3>👩‍💻 Coding Stats</h3></summary>
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-22%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-22%20hrs%2038%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 573.2 kB Used in GitHub's Storage 
+> 📦 573.3 kB Used in GitHub's Storage 
  > 
 > 🏆 103 Contributions in the Year 2023
  > 
@@ -91,8 +91,8 @@ Linux                    28 mins             ███████████�
 **I Mostly Code in HTML** 
 
 ```text
-HTML                     78 repos            █████████░░░░░░░░░░░░░░░░   35.14 % 
-JavaScript               66 repos            ███████░░░░░░░░░░░░░░░░░░   29.73 % 
+HTML                     76 repos            █████████░░░░░░░░░░░░░░░░   34.23 % 
+JavaScript               68 repos            ████████░░░░░░░░░░░░░░░░░   30.63 % 
 TypeScript               57 repos            ██████░░░░░░░░░░░░░░░░░░░   25.68 % 
 CSS                      16 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
 SCSS                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
@@ -101,7 +101,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/02/2023 18:36:56 UTC
+ Last Updated on 26/02/2023 18:36:33 UTC
 <!--END_SECTION:waka-->
 
 </details>
