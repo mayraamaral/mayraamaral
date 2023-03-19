@@ -31,7 +31,7 @@ Also studying **backend with Node.js** in my spare time🔥
   <summary><h3>👩‍💻 Coding Stats</h3></summary>
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-41%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-41%20hrs%2040%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -105,7 +105,7 @@ Shell                    2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 19/03/2023 18:23:34 UTC
+ Last Updated on 19/03/2023 18:37:38 UTC
 <!--END_SECTION:waka-->
 
 </details>
