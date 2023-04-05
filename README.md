@@ -37,11 +37,11 @@ Also studying **backend with Node.js** in my spare time🔥
 
 > 📦 577.9 kB Used in GitHub's Storage 
  > 
-> 🏆 194 Contributions in the Year 2023
+> 🏆 192 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 50 Public Repositories 
+> 📜 45 Public Repositories 
  > 
 > 🔑 24 Private Repositories 
  > 
@@ -97,7 +97,7 @@ Shell                    2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/04/2023 18:39:45 UTC
+ Last Updated on 05/04/2023 18:43:35 UTC
 <!--END_SECTION:waka-->
 
 </details>
