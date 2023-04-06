@@ -1,8 +1,7 @@
 ## 👋 Hi, I'm Mayra
 
 A girl passionate about technology💻 and challenges⚡  
-Currently **working as frontend engineer**👩‍💻 at DBC Company🚀  
-Also studying **backend with Node.js** in my spare time🔥  
+Currently **working as fullstack engineer**👩‍💻 at DBC Company🚀   
 
 ### 💬 You can find me at
 
