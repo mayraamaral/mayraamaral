@@ -12,7 +12,7 @@ Currently **working as fullstack engineer**👩‍💻 at DBC Company🚀
 
 ### 🛠️ Stack
 
-[![My Skills](https://skillicons.dev/icons?i=react,redux,styledcomponents,html,css,sass,js,ts,py,nodejs,git,linux,bash,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,java,spring,postgres,redux,styledcomponents,html,css,sass,js,ts,py,nodejs,git,linux,bash,figma)](https://skillicons.dev)
 
 <details>
     <summary><h3>📌 Github Stats</h3></summary>
