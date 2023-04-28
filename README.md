@@ -11,8 +11,13 @@ Currently **working as fullstack engineer**👩‍💻 at DBC Company🚀
 <a href="" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/-mayra%230179-7289DA?style=flat&logo=Discord&logoColor=white"/></a>
 
 ### 🛠️ Stack
+#### Front-end
 
-[![My Skills](https://skillicons.dev/icons?i=react,java,spring,postgres,redux,styledcomponents,html,css,sass,js,ts,py,nodejs,git,linux,bash,figma)](https://skillicons.dev)
+[![Front-end Skills](https://skillicons.dev/icons?i=react,next,redux,styledcomponents,html,css,sass,js,ts,figma)](https://skillicons.dev)
+#### Back-end
+
+[![Front-end Skills](https://skillicons.dev/icons?i=java,spring,postgres,sql,git,linux,bash,docker,jenkins)](https://skillicons.dev)
+
 
 <details>
     <summary><h3>📌 Github Stats</h3></summary>
