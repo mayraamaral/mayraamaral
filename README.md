@@ -21,10 +21,13 @@ Currently **working as fullstack engineer**👩‍💻 at DBC Company🚀
 
 <details>
     <summary><h3>📌 Github Stats</h3></summary>
-  <table>
+    <p align="center">
+        <table>
       <td><img height="160em" src="https://github-readme-stats.vercel.app/api?username=mayraamaral&show_icons=true&theme=algolia&hide_border=true&hide=stars&count_private=true" alt="Readme stats"></td>
       <td><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayraamaral&&layout=compact&&theme=algolia&hide_border=true&langs_count=6" alt="Language stats"></td>
-  </table>
+       </table>
+  </p> 
+    
 
   <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=mayraamaral&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt-br&background=050F2C&ring=0195DD&fire=23AA7D&currStreakLabel=23AA7D" alt="Streak stats">
