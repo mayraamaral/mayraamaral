@@ -79,19 +79,16 @@ Sunday                   221 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JavaScript               1 hr 13 mins        ██████████████████░░░░░░░   70.13 % 
-CSS                      23 mins             ██████░░░░░░░░░░░░░░░░░░░   22.65 % 
-HTML                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 45 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-aula-js                  1 hr 30 mins        ██████████████████████░░░   86.14 % 
-todo-list-js             14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 45 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -107,7 +104,7 @@ Java                     4 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 19/05/2023 18:40:45 UTC
+ Last Updated on 20/05/2023 18:39:46 UTC
 <!--END_SECTION:waka-->
 
 </details>
