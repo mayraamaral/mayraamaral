@@ -79,17 +79,16 @@ Sunday                   221 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Other                    4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-transit.(2018).pob.1cd.(72 mins              █████████████░░░░░░░░░░░░   50.22 % 
-transit.(2018).por.1cd.(82 mins              ████████████░░░░░░░░░░░░░   49.78 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -105,7 +104,7 @@ Java                     4 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/05/2023 18:41:03 UTC
+ Last Updated on 28/05/2023 18:40:03 UTC
 <!--END_SECTION:waka-->
 
 </details>
