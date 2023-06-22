@@ -8,7 +8,7 @@ Currently **working as fullstack engineer**👩‍💻 at DBC Company🚀
 <a href="https://mayra.dev" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/-mayra.dev-005FED?style=flat&logo=Google-chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/mayraamaral" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/-/mayraamaral-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:mayra@mayra.dev" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/-mayra@mayra.dev-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/-mayra%230179-7289DA?style=flat&logo=Discord&logoColor=white"/></a>
+<a href="" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/-mayraamaral-7289DA?style=flat&logo=Discord&logoColor=white"/></a>
 
 ### 🛠️ Stack
 #### Front-end
