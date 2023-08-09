@@ -38,17 +38,17 @@ Currently **working as fullstack engineer**👩‍💻 at DBC Company🚀
   <summary><h3>👩‍💻 Coding Stats</h3></summary>
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-112%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-116%20hrs%2042%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 578.1 kB Used in GitHub's Storage 
  > 
-> 🏆 244 Contributions in the Year 2023
+> 🏆 246 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 45 Public Repositories 
+> 📜 46 Public Repositories 
  > 
 > 🔑 24 Private Repositories 
  > 
@@ -113,7 +113,7 @@ CSS                      17 repos            █░░░░░░░░░░�
 
 
 
- Last Updated on 08/08/2023 18:41:27 UTC
+ Last Updated on 09/08/2023 18:43:46 UTC
 <!--END_SECTION:waka-->
 
 </details>
