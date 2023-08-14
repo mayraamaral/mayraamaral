@@ -38,7 +38,7 @@ Currently **working as fullstack engineer**👩‍💻 at DBC Company🚀
   <summary><h3>👩‍💻 Coding Stats</h3></summary>
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-119%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-120%20hrs%208%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -113,7 +113,7 @@ CSS                      17 repos            █░░░░░░░░░░�
 
 
 
- Last Updated on 13/08/2023 18:41:28 UTC
+ Last Updated on 14/08/2023 18:42:36 UTC
 <!--END_SECTION:waka-->
 
 </details>
