@@ -38,7 +38,7 @@ Currently **working as fullstack engineer**👩‍💻 at DBC Company🚀
   <summary><h3>👩‍💻 Coding Stats</h3></summary>
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-168%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-169%20hrs%2023%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -79,13 +79,15 @@ Sunday                   271 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               24 mins             ████████████████████░░░░░   78.99 % 
+CSS                      5 mins              █████░░░░░░░░░░░░░░░░░░░░   18.38 % 
+Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  31 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    31 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -101,7 +103,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/11/2023 18:45:20 UTC
+ Last Updated on 08/11/2023 18:44:32 UTC
 <!--END_SECTION:waka-->
 
 </details>
