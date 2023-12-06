@@ -38,8 +38,6 @@ Currently **working as fullstack engineer**👩‍💻 at DBC Company🚀
   <summary><h3>👩‍💻 Coding Stats</h3></summary>
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-169%20hrs%2023%20mins-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 579.0 kB Used in GitHub's Storage 
@@ -52,42 +50,6 @@ Currently **working as fullstack engineer**👩‍💻 at DBC Company🚀
  > 
 > 🔑 24 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                314 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
-🌆 Daytime                1091 commits        ████████████░░░░░░░░░░░░░   47.79 % 
-🌃 Evening                741 commits         ████████░░░░░░░░░░░░░░░░░   32.46 % 
-🌙 Night                  137 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   469 commits         █████░░░░░░░░░░░░░░░░░░░░   20.54 % 
-Tuesday                  379 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
-Wednesday                291 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
-Thursday                 397 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
-Friday                   346 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
-Saturday                 130 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
-Sunday                   271 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -101,7 +63,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/12/2023 18:45:45 UTC
+ Last Updated on 06/12/2023 18:45:21 UTC
 <!--END_SECTION:waka-->
 
 </details>
