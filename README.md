@@ -16,7 +16,7 @@ Currently **working as fullstack engineer**👩‍💻 at DBC Company🚀
 [![Front-end Skills](https://skillicons.dev/icons?i=react,next,redux,styledcomponents,html,css,sass,js,ts,figma)](https://skillicons.dev)
 #### Back-end
 
-[![Front-end Skills](https://skillicons.dev/icons?i=java,spring,postgres,git,linux,bash,nodejs,docker,jenkins)](https://skillicons.dev)
+[![Front-end Skills](https://skillicons.dev/icons?i=java,spring,aws,postgres,oracle,git,linux,bash,nodejs,docker,kubernetes,jenkins)](https://skillicons.dev)
 
 
 <details>
