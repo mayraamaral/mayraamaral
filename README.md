@@ -34,6 +34,8 @@ Currently **working as fullstack engineer**👩‍💻 at DBC Company🚀
   </p> 
 </details>
 
+<br />
+
 <details>
   <summary><strong>👩‍💻 Coding Stats</strong></summary>
   
