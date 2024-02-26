@@ -20,7 +20,7 @@ Currently **working as fullstack engineer**👩‍💻 at DBC Company🚀
 
 
 <details>
-    <summary><h3>📌 Github Stats</h3></summary>
+    <summary><strong>📌 Github Stats</strong></summary>
     <div align="center">
         <table>
       <td><img height="160em" src="https://github-readme-stats.vercel.app/api?username=mayraamaral&show_icons=true&theme=algolia&hide_border=true&hide=stars&count_private=true" alt="Readme stats"></td>
@@ -35,7 +35,7 @@ Currently **working as fullstack engineer**👩‍💻 at DBC Company🚀
 </details>
 
 <details>
-  <summary><h3>👩‍💻 Coding Stats</h3></summary>
+  <summary><strong>👩‍💻 Coding Stats</strong></summary>
   
   <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-255%20hrs%2040%20mins-blue)
