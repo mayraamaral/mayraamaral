@@ -42,7 +42,7 @@ Currently **working as fullstack engineer**👩‍💻 at DBC Company🚀
   <br />
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-373%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-374%20hrs%2035%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -110,7 +110,7 @@ PLSQL                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/04/2024 18:57:43 UTC
+ Last Updated on 26/04/2024 18:57:52 UTC
 <!--END_SECTION:waka-->
 
 </details>
