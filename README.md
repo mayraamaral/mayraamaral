@@ -48,7 +48,7 @@ Currently **working as backend developer**👩‍💻 at [Alura](https://www.alu
 
 > 📦 582.6 kB Used in GitHub's Storage 
  > 
-> 🏆 315 Contributions in the Year 2024
+> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -106,7 +106,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 17/05/2024 18:57:06 UTC
+ Last Updated on 18/05/2024 18:56:54 UTC
 <!--END_SECTION:waka-->
 
 </details>
