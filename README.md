@@ -13,7 +13,7 @@ Currently **working as backend developer**👩‍💻 at [Alura](https://www.alu
 ### 🛠️ Stack
 #### Front-end
 
-[![Front-end Skills](https://skillicons.dev/icons?i=react,next,redux,styledcomponents,html,css,sass,js,ts,figma)](https://skillicons.dev)
+[![Front-end Skills](https://skillicons.dev/icons?i=react,next,angular,redux,styledcomponents,html,css,sass,js,ts,figma)](https://skillicons.dev)
 #### Back-end
 
 [![Front-end Skills](https://skillicons.dev/icons?i=java,spring,hibernate,aws,idea,postgres,mysql,git,linux,bash,nodejs,docker,kubernetes,jenkins)](https://skillicons.dev)
