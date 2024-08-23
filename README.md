@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Mayra
 
-A girl passionate about technology💻 and challenges⚡  
-Currently **working as backend developer**👩‍💻 at [Alura](https://www.alura.com.br)   
+Passionate about technology💻 and challenges⚡  
+Backend developer at [Alura](https://www.alura.com.br)   
 
 ### 💬 You can find me at
 
