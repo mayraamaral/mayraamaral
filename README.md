@@ -42,11 +42,11 @@ Backend developer at [Alura](https://www.alura.com.br)
   <br />
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-678%20hrs%2038%20mins-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 588.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -107,7 +107,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 31/12/2024 19:18:02 UTC
+ Last Updated on 01/01/2025 19:16:19 UTC
 <!--END_SECTION:waka-->
 
 </details>
