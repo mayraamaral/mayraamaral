@@ -1,7 +1,7 @@
-## 👋 Hi, I'm Mayra
+cccc## 👋 Hi, I'm Mayra
 
 Passionate about technology💻 and challenges⚡  
-Software Engineer at [Translational Analytics](https://www.trans-stat.com/)
+Software Engineer at [Translational Analytics & Statistics](https://www.trans-stat.com/)
 
 ### 💬 You can find me at
 
