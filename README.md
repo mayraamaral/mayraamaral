@@ -42,7 +42,7 @@ Software Engineer at [Translational Analytics & Statistics](https://www.trans-st
   <br />
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-847%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-847%20hrs%2036%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -83,15 +83,14 @@ Sunday                   440 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               7 hrs 46 mins       ████████████████████████░   95.61 % 
-JavaScript               21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
+TypeScript               6 hrs 29 mins       ████████████████████████░   96.28 % 
+JavaScript               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 58 mins       █████████████████████████   98.26 % 
-Cursor                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+VS Code                  6 hrs 44 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    8 hrs 7 mins        █████████████████████████   100.00 % 
+Linux                    6 hrs 44 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -107,7 +106,7 @@ Python                   2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 13/06/2025 19:16:36 UTC
+ Last Updated on 14/06/2025 19:11:53 UTC
 <!--END_SECTION:waka-->
 
 </details>
