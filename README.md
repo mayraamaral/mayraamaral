@@ -42,13 +42,11 @@ Software Engineer at [Translational Analytics & Statistics](https://www.trans-st
   <br />
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-951%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-952%20hrs%2027%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 640.7 kB Used in GitHub's Storage 
- > 
-> 🏆 700 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -97,9 +95,9 @@ Linux                    5 hrs 39 mins       ███████████�
 **I Mostly Code in Java** 
 
 ```text
-Java                     119 repos           ███████░░░░░░░░░░░░░░░░░░   28.13 % 
-JavaScript               96 repos            ██████░░░░░░░░░░░░░░░░░░░   22.70 % 
-TypeScript               81 repos            █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
+Java                     118 repos           ███████░░░░░░░░░░░░░░░░░░   27.96 % 
+JavaScript               96 repos            ██████░░░░░░░░░░░░░░░░░░░   22.75 % 
+TypeScript               81 repos            █████░░░░░░░░░░░░░░░░░░░░   19.19 % 
 PHP                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 Python                   2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 ```
@@ -107,7 +105,7 @@ Python                   2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 23/08/2025 19:16:11 UTC
+ Last Updated on 24/08/2025 19:12:51 UTC
 <!--END_SECTION:waka-->
 
 </details>
