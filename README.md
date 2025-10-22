@@ -16,7 +16,7 @@ Software Engineer at [Translational Analytics & Statistics](https://www.trans-st
 [![Front-end Skills](https://skillicons.dev/icons?i=react,next,angular,redux,styledcomponents,html,css,sass,js,ts,figma)](https://skillicons.dev)
 #### Back-end
 
-[![Back-end Skills](https://skillicons.dev/icons?i=nodejs,ts,aws,java,spring,postgres,mysql,git,linux,bash,docker,jenkins)](https://skillicons.dev)
+[![Back-end Skills](https://skillicons.dev/icons?i=nodejs,ts,aws,java,spring,python,postgres,mysql,git,linux,bash,docker,jenkins)](https://skillicons.dev)
   
 
 <details>
