@@ -42,8 +42,6 @@ Software Engineer at [Translational Analytics & Statistics](https://www.trans-st
   <br />
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C191%20hrs%2024%20mins-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
 > 📦 422.5 kB Used in GitHub's Storage 
@@ -106,7 +104,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 31/01/2026 19:10:58 UTC
+ Last Updated on 01/02/2026 19:12:27 UTC
 <!--END_SECTION:waka-->
 
 </details>
