@@ -22,15 +22,7 @@ Software Engineer at [Translational Analytics & Statistics](https://www.trans-st
 <details>
     <summary><strong>📌 Github Stats</strong></summary>
     <br />
-    <div align="center">
-        <table>
-      <td><img height="160em" src="https://github-readme-stats.vercel.app/api?username=mayraamaral&show_icons=true&theme=algolia&hide_border=true&hide=stars&count_private=true" alt="Readme stats"></td>
-      <td><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayraamaral&&layout=compact&&theme=algolia&hide_border=true&langs_count=6" alt="Language stats"></td>
-       </table>
-  </div> 
-    
-
-  <p align="center">
+  <p>
     <img src="https://github-readme-streak-stats.herokuapp.com?user=mayraamaral&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt-br&background=050F2C&ring=0195DD&fire=23AA7D&currStreakLabel=23AA7D" alt="Streak stats">
   </p> 
 </details>
