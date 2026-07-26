@@ -34,11 +34,13 @@ Software Engineer at [Translational Analytics & Statistics](https://www.trans-st
   <br />
   
   <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C499%20hrs%2023%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 438.3 kB Used in GitHub's Storage 
  > 
-> 🏆 780 Contributions in the Year 2026
+> 🏆 781 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -49,20 +51,20 @@ Software Engineer at [Translational Analytics & Statistics](https://www.trans-st
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                5499 commits        █████░░░░░░░░░░░░░░░░░░░░   21.10 % 
-🌆 Daytime                14736 commits       ██████████████░░░░░░░░░░░   56.54 % 
-🌃 Evening                4279 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
+🌞 Morning                5499 commits        █████░░░░░░░░░░░░░░░░░░░░   21.09 % 
+🌆 Daytime                14737 commits       ██████████████░░░░░░░░░░░   56.53 % 
+🌃 Evening                4284 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
 🌙 Night                  1550 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   4821 commits        █████░░░░░░░░░░░░░░░░░░░░   18.50 % 
+Monday                   4821 commits        █████░░░░░░░░░░░░░░░░░░░░   18.49 % 
 Tuesday                  5161 commits        █████░░░░░░░░░░░░░░░░░░░░   19.80 % 
-Wednesday                6096 commits        ██████░░░░░░░░░░░░░░░░░░░   23.39 % 
+Wednesday                6096 commits        ██████░░░░░░░░░░░░░░░░░░░   23.38 % 
 Thursday                 4502 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
-Friday                   3637 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
-Saturday                 1070 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+Friday                   3638 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
+Saturday                 1075 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
 Sunday                   777 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
 ```
 
@@ -73,18 +75,18 @@ Sunday                   777 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               15 hrs 27 mins      ████████████████████░░░░░   80.04 % 
-Markdown                 1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
-Bash                     55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
-JSON                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
-Text                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+TypeScript               15 hrs 31 mins      ███████████████████░░░░░░   76.63 % 
+Markdown                 1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+Bash                     1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+Other                    50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
+JSON                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
 
 🔥 Editors: 
-Claude Code              14 hrs 36 mins      ███████████████████░░░░░░   75.67 % 
-VS Code                  4 hrs 41 mins       ██████░░░░░░░░░░░░░░░░░░░   24.33 % 
+Claude Code              15 hrs 31 mins      ███████████████████░░░░░░   76.61 % 
+VS Code                  4 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   23.39 % 
 
 💻 Operating System: 
-Linux                    19 hrs 18 mins      █████████████████████████   100.00 % 
+Linux                    20 hrs 16 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -100,7 +102,7 @@ Shell                    3 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 20:13:25 UTC
+ Last Updated on 26/07/2026 20:14:35 UTC
 <!--END_SECTION:waka-->
 
 </details>
