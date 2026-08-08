@@ -36,7 +36,7 @@ Software Engineer at [Translational Analytics & Statistics](https://www.trans-st
   <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C499%20hrs%2039%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-237%20hrs%2049%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-237%20hrs%2059%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -54,7 +54,7 @@ Software Engineer at [Translational Analytics & Statistics](https://www.trans-st
 
 ```text
 🌞 Morning                5643 commits        █████░░░░░░░░░░░░░░░░░░░░   21.14 % 
-🌆 Daytime                15135 commits       ██████████████░░░░░░░░░░░   56.70 % 
+🌆 Daytime                15136 commits       ██████████████░░░░░░░░░░░   56.70 % 
 🌃 Evening                4342 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
 🌙 Night                  1573 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
 ```
@@ -64,7 +64,7 @@ Software Engineer at [Translational Analytics & Statistics](https://www.trans-st
 Monday                   4909 commits        █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
 Tuesday                  5305 commits        █████░░░░░░░░░░░░░░░░░░░░   19.87 % 
 Wednesday                6246 commits        ██████░░░░░░░░░░░░░░░░░░░   23.40 % 
-Thursday                 4648 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
+Thursday                 4649 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
 Friday                   3721 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
 Saturday                 1087 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
 Sunday                   777 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
@@ -77,41 +77,41 @@ Sunday                   777 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               3 hrs 21 mins       ███████████████░░░░░░░░░░   60.66 % 
-Markdown                 48 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
-Bash                     38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
-SQL                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
-JavaScript               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
+TypeScript               3 hrs 9 mins        ███████████████░░░░░░░░░░   59.48 % 
+Markdown                 48 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
+Bash                     38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
+SQL                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
+JavaScript               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 
 🔥 Editors: 
-Claude Code              4 hrs 56 mins       ██████████████████████░░░   89.14 % 
-VS Code                  36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
+Claude Code              4 hrs 40 mins       ██████████████████████░░░   88.33 % 
+VS Code                  37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
 
 💻 Operating System: 
-Linux                    5 hrs 32 mins       █████████████████████████   100.00 % 
+Linux                    5 hrs 17 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 11 mins (93.61%)
+⏱ AI Coding Time: 4 hrs 56 mins (93.31%)
 
-✍️ 634 lines written by AI, 106 lines written by hand (85.68% AI-written)
+✍️ 591 lines written by AI, 106 lines written by hand (84.79% AI-written)
 
-🔤 172,917,279 Input Tokens, 468,883 Output Tokens
+🔤 164,287,860 Input Tokens, 414,722 Output Tokens
 
-💵 $938.73 Estimated AI Cost This Week
+💵 $829.54 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 48 AI Prompts
+🧠 4 AI Sessions, 47 AI Prompts
 
-Opus                     904 lines           █████████████████████████   100.00 % 
+Opus                     669 lines           █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 85.68% of written lines came from AI
-📚 Verbose Prompter — average 2,010 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 20.17% of changed lines were hand-edited
+🤖 AI-Driven — 84.79% of written lines came from AI
+📚 Verbose Prompter — average 2,050 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
+🚀 High AI Trust — 22.48% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -127,7 +127,7 @@ Shell                    3 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2026 19:59:41 UTC
+ Last Updated on 08/08/2026 19:44:38 UTC
 <!--END_SECTION:waka-->
 
 </details>
