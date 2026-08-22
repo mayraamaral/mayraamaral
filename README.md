@@ -34,15 +34,15 @@ Software Engineer at [Translational Analytics & Statistics](https://www.trans-st
   <br />
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C512%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C513%20hrs%2039%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-250%20hrs%2046%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-251%20hrs%2048%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 438.4 kB Used in GitHub's Storage 
  > 
-> 🏆 869 Contributions in the Year 2026
+> 🏆 873 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -54,8 +54,8 @@ Software Engineer at [Translational Analytics & Statistics](https://www.trans-st
 
 ```text
 🌞 Morning                5840 commits        █████░░░░░░░░░░░░░░░░░░░░   21.36 % 
-🌆 Daytime                15502 commits       ██████████████░░░░░░░░░░░   56.69 % 
-🌃 Evening                4409 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
+🌆 Daytime                15500 commits       ██████████████░░░░░░░░░░░   56.68 % 
+🌃 Evening                4411 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
 🌙 Night                  1594 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
@@ -77,41 +77,41 @@ Sunday                   799 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               2 hrs 49 mins       ███████████░░░░░░░░░░░░░░   44.04 % 
-Markdown                 1 hr 31 mins        ██████░░░░░░░░░░░░░░░░░░░   23.66 % 
-Other                    58 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
-Text                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
-Bash                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+TypeScript               2 hrs 25 mins       ███████████░░░░░░░░░░░░░░   43.43 % 
+Markdown                 1 hr 6 mins         █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
+Other                    1 hr 6 mins         █████░░░░░░░░░░░░░░░░░░░░   19.93 % 
+Text                     42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
+Bash                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
 
 🔥 Editors: 
-Claude Code              5 hrs 24 mins       █████████████████████░░░░   84.23 % 
-VS Code                  1 hr                ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
+Claude Code              4 hrs 47 mins       █████████████████████░░░░   85.86 % 
+VS Code                  47 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
 
 💻 Operating System: 
-Linux                    6 hrs 25 mins       █████████████████████████   100.00 % 
+Linux                    5 hrs 34 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 55 mins (92.39%)
+⏱ AI Coding Time: 5 hrs 14 mins (93.98%)
 
-✍️ 438 lines written by AI, 133 lines written by hand (76.71% AI-written)
+✍️ 127 lines written by AI, 1 lines written by hand (99.22% AI-written)
 
-🔤 4,756,419 Input Tokens, 679,058 Output Tokens
+🔤 4,511,883 Input Tokens, 601,709 Output Tokens
 
-💵 $119.37 Estimated AI Cost This Week
+💵 $110.29 Estimated AI Cost This Week
 
-🧠 20 AI Sessions, 52 AI Prompts
+🧠 19 AI Sessions, 41 AI Prompts
 
-Opus                     504 lines           █████████████████████████   100.00 % 
+Opus                     130 lines           █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 76.71% of written lines came from AI
-📚 Verbose Prompter — average 6,648 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 75.63% of changed lines were hand-edited
+🤖 AI-Driven — 99.22% of written lines came from AI
+📚 Verbose Prompter — average 7,058 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 87.97% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -127,7 +127,7 @@ Shell                    3 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 21/08/2026 19:44:11 UTC
+ Last Updated on 22/08/2026 19:26:37 UTC
 <!--END_SECTION:waka-->
 
 </details>
