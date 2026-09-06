@@ -34,9 +34,9 @@ Software Engineer at [Translational Analytics & Statistics](https://www.trans-st
   <br />
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C519%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C520%20hrs%2025%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-261%20hrs%2025%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-262%20hrs%2026%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -77,31 +77,31 @@ Sunday                   845 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               2 hrs 22 mins       ████████████░░░░░░░░░░░░░   46.06 % 
-Text                     1 hr 19 mins        ██████░░░░░░░░░░░░░░░░░░░   25.67 % 
-Other                    1 hr 12 mins        ██████░░░░░░░░░░░░░░░░░░░   23.28 % 
-Markdown                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
+TypeScript               2 hrs 20 mins       ████████████░░░░░░░░░░░░░   48.93 % 
+Other                    1 hr 10 mins        ██████░░░░░░░░░░░░░░░░░░░   24.41 % 
+Text                     1 hr 1 min          █████░░░░░░░░░░░░░░░░░░░░   21.28 % 
+Markdown                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
 
 🔥 Editors: 
-Claude Code              4 hrs 48 mins       ███████████████████████░░   92.87 % 
-VS Code                  22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
+Claude Code              4 hrs 27 mins       ███████████████████████░░   92.79 % 
+VS Code                  20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
 
 💻 Operating System: 
-Linux                    5 hrs 10 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 48 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 58 mins (96.41%)
+⏱ AI Coding Time: 4 hrs 38 mins (96.57%)
 
 ✍️ 82 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 4,443,083 Input Tokens, 544,322 Output Tokens
+🔤 4,041,169 Input Tokens, 477,147 Output Tokens
 
-💵 $103.60 Estimated AI Cost This Week
+💵 $95.17 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 54 AI Prompts
+🧠 13 AI Sessions, 51 AI Prompts
 
 Opus                     122 lines           █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
@@ -109,7 +109,7 @@ Sonnet                   0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 2,613 characters per prompt
+📚 Verbose Prompter — average 2,635 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 46.26% of changed lines were hand-edited
 ```
@@ -127,7 +127,7 @@ Shell                    3 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/09/2026 21:06:34 UTC
+ Last Updated on 06/09/2026 21:12:30 UTC
 <!--END_SECTION:waka-->
 
 </details>
