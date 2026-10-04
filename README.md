@@ -34,9 +34,9 @@ Software Engineer at [Translational Analytics & Statistics](https://www.trans-st
   <br />
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C531%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C532%20hrs%2022%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-278%20hrs%2036%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-279%20hrs%2013%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -77,15 +77,15 @@ Sunday                   843 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Bash                     1 hr 15 mins        ███████████░░░░░░░░░░░░░░   42.18 % 
-Other                    34 mins             █████░░░░░░░░░░░░░░░░░░░░   19.13 % 
-TypeScript               33 mins             █████░░░░░░░░░░░░░░░░░░░░   18.62 % 
-Markdown                 16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
-SQL                      16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
+Bash                     1 hr 15 mins        ███████████░░░░░░░░░░░░░░   42.07 % 
+Other                    34 mins             █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
+TypeScript               33 mins             █████░░░░░░░░░░░░░░░░░░░░   18.57 % 
+Markdown                 16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
+SQL                      16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 47 mins       ████████████████████████░   94.21 % 
-VS Code                  10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+Claude Code              2 hrs 48 mins       ████████████████████████░   94.17 % 
+VS Code                  10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
 
 💻 Operating System: 
 Linux                    2 hrs 58 mins       █████████████████████████   100.00 % 
@@ -94,15 +94,15 @@ Linux                    2 hrs 58 mins       ███████████�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 55 mins (98.64%)
+⏱ AI Coding Time: 2 hrs 56 mins (98.65%)
 
 ✍️ 173 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,814,952 Input Tokens, 178,367 Output Tokens
+🔤 1,851,068 Input Tokens, 180,167 Output Tokens
 
-💵 $18.69 Estimated AI Cost This Week
+💵 $18.92 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 56 AI Prompts
+🧠 13 AI Sessions, 57 AI Prompts
 
 Opus                     173 lines           █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
@@ -110,8 +110,8 @@ Sonnet                   0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 4,701 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+📚 Verbose Prompter — average 4,620 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 11.73% of changed lines were hand-edited
 ```
 
@@ -128,7 +128,7 @@ Shell                    3 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/10/2026 22:19:04 UTC
+ Last Updated on 04/10/2026 22:20:45 UTC
 <!--END_SECTION:waka-->
 
 </details>
