@@ -42,7 +42,7 @@ Software Engineer at [Translational Analytics & Statistics](https://www.trans-st
 
 > 📦 438.4 kB Used in GitHub's Storage 
  > 
-> 🏆 1,062 Contributions in the Year 2026
+> 🏆 1,067 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -53,21 +53,21 @@ Software Engineer at [Translational Analytics & Statistics](https://www.trans-st
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                7777 commits        ██████░░░░░░░░░░░░░░░░░░░   22.14 % 
-🌆 Daytime                20020 commits       ██████████████░░░░░░░░░░░   56.99 % 
-🌃 Evening                5435 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
-🌙 Night                  1900 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+🌞 Morning                7385 commits        █████░░░░░░░░░░░░░░░░░░░░   21.98 % 
+🌆 Daytime                19136 commits       ██████████████░░░░░░░░░░░   56.96 % 
+🌃 Evening                5236 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
+🌙 Night                  1840 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   6394 commits        █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
-Tuesday                  7034 commits        █████░░░░░░░░░░░░░░░░░░░░   20.02 % 
-Wednesday                8036 commits        ██████░░░░░░░░░░░░░░░░░░░   22.87 % 
-Thursday                 6411 commits        █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
-Friday                   5173 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
-Saturday                 1215 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
-Sunday                   869 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+Monday                   6127 commits        █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
+Tuesday                  6720 commits        █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Wednesday                7696 commits        ██████░░░░░░░░░░░░░░░░░░░   22.91 % 
+Thursday                 6088 commits        █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
+Friday                   4912 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
+Saturday                 1195 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
+Sunday                   859 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
 ```
 
 
@@ -77,41 +77,41 @@ Sunday                   869 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               1 hr 12 mins        █████████░░░░░░░░░░░░░░░░   35.98 % 
-Bash                     1 hr 5 mins         ████████░░░░░░░░░░░░░░░░░   32.77 % 
-Other                    41 mins             █████░░░░░░░░░░░░░░░░░░░░   20.79 % 
-Markdown                 12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
-Text                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+TypeScript               1 hr 35 mins        ███████████░░░░░░░░░░░░░░   45.56 % 
+Other                    1 hr 5 mins         ████████░░░░░░░░░░░░░░░░░   31.61 % 
+Bash                     26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+Markdown                 12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
+Text                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 59 mins       ██████████████████████░░░   89.16 % 
-VS Code                  21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
+Claude Code              3 hrs 9 mins        ███████████████████████░░   90.80 % 
+VS Code                  19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
 
 💻 Operating System: 
-Linux                    3 hrs 21 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 28 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 7 mins (93.3%)
+⏱ AI Coding Time: 3 hrs 11 mins (91.64%)
 
-✍️ 275 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 250 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 4,158,389 Input Tokens, 220,122 Output Tokens
+🔤 3,364,697 Input Tokens, 183,570 Output Tokens
 
-💵 $31.12 Estimated AI Cost This Week
+💵 $28.14 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 52 AI Prompts
+🧠 10 AI Sessions, 56 AI Prompts
 
-Opus                     282 lines           █████████████████████████   100.00 % 
+Opus                     257 lines           █████████████████████████   100.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 2,309 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 32.7% of changed lines were hand-edited
+📚 Verbose Prompter — average 2,715 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 15.46% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -127,7 +127,7 @@ Shell                    3 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/10/2026 23:27:21 UTC
+ Last Updated on 27/10/2026 23:08:10 UTC
 <!--END_SECTION:waka-->
 
 </details>
